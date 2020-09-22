@@ -1,3 +1,4 @@
+#yg NYOLONG SC GUA KEK K0NT0|_
 import json
 import requests
 import os
